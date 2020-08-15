@@ -1,3 +1,7 @@
-.container-fluid{
-    font-family: 'Bubblegum Sans', cursive;
+.titulo{
+    font-family: 'Graduate', cursive;
+}
+
+.background{
+    background-blend-mode: color;
 }

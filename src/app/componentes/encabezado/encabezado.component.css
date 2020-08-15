@@ -1,7 +1,7 @@
 .titulo{
     font-family: 'Graduate', cursive;
-}
-
-.background{
-    background-blend-mode: color;
+    text-align: center;
+    background-color: lightsalmon;
+    padding-top: 50px;
+    padding-bottom: 50px;
 }

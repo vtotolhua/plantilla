@@ -3,3 +3,14 @@
     background-image: url('../../../assets/fotos/bodhisattva.jpg');
 }*/
 
+.carousel-inner img {
+    width: 80%;
+    height: 80%;
+  }
+
+.container-fluid{
+    padding-top: 50px;
+    padding-bottom: 50px;
+    background-color: darkslategrey;
+    
+}

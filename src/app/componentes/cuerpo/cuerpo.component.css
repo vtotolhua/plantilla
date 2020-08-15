@@ -4,13 +4,13 @@
 }*/
 
 .carousel-inner img {
-    width: 80%;
-    height: 80%;
+    width: 50%;
+    height: 50%;
   }
 
 .container-fluid{
     padding-top: 50px;
     padding-bottom: 50px;
-    background-color: darkslategrey;
+   /* background-color: darkslategrey;*/
     
 }

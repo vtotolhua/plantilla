@@ -1,7 +1,6 @@
-
-/*.jumbtron-fluid {
-    background-image: url('../../../assets/fotos/bodhisattva.jpg');
-}*/
+.jumbtron-fluid {
+    background-color: white;
+}
 
 .carousel-inner img {
     width: 70%;
@@ -28,4 +27,11 @@
 
 .texto{
     margin-block: 200px ;
+}
+
+.fas{
+    padding-top: 15px;
+    padding-bottom: 15px;
+    padding-right: 15px;
+    font-size: 60px;
 }

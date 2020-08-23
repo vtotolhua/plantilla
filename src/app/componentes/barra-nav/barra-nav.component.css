@@ -1,0 +1,22 @@
+.container-fluid{
+    position:-webkit-sticky;
+    position: sticky; 
+    top:0px;
+    z-index: 2;
+    background-color: #14d2f8;
+}
+.navbar{
+    background-color: #14d2f8;
+
+}
+
+.iconos{
+    color: #14d2f8;
+    font-size: 36px;
+    text-align: right;
+}
+
+.fab{
+    padding-top: 15px;
+    padding-right: 15px;
+}

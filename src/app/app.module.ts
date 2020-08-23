@@ -9,6 +9,7 @@ import { CuerpoComponent } from './componentes/cuerpo/cuerpo.component';
 import { PiepaginaComponent } from './componentes/piepagina/piepagina.component';
 import { BarraNavComponent } from './componentes/barra-nav/barra-nav.component';
 
+
 @NgModule({
   declarations: [
     AppComponent,
